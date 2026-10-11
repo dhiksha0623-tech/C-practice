@@ -1,2 +1,0 @@
-# C-practice
-Loop programs.
