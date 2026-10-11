@@ -1,2 +1,2 @@
 # C-practice
-Loop programs
+Loop programs.
